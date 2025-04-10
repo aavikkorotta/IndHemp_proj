@@ -14,7 +14,7 @@ Spin-up period: 500 years, utilized the average climate data from January 2001 t
 
 Warm-up period: 5 years, utilized the average climate data from January 2020 to December 2024. 
 
-Foward run for projections: 40 years, from 2025 to 2065.
+Foward run for projections: 40 years, from 2024 to 2064.
 
 
 Soil sampling depth:	50 cm (except for 3 samples)
