@@ -3,7 +3,7 @@ ROTH C MODELLING
 
 Baseline scenario: crop rotations without hemp --> canola/barley/winter wheat
 
-Project scenario: crop rotations with hemp every 3 or 4 years --> hemp/barley/spring wheat/winter wheat/canola/chikpeas3
+Project scenario: crop rotations with hemp every 3 or 4 years --> hemp/barley/spring wheat/winter wheat/canola/chikpeas
 
 Project start date:	May to July 2024
 
