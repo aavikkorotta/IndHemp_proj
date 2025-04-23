@@ -21,4 +21,4 @@ Soil sampling depth:	50 cm (except for 3 samples)
 
 Mean Clay from samples:	24.95%
 
-Sampled SOC: After outliers’ accommodation the SOC values for all samples, estimated on ESM basis, ranged from a minimum of 44.82 to a maximum of 301.84 tons C/ha. The mean SOC was 133.35 ± 69.42 (SD), based on a total of 84 samples.
+Sampled SOC: After outliers’ accommodation the SOC values for all samples, estimated on ESM basis, ranged from a minimum of 44.82 to a maximum of 301.84 tons C/ha. The mean SOC was 133.35 ± 69.42 (SD), based on a total of 84 samples. Note that even though this is the mean for the top 50 cm, it's still extremely high for cropland, but within the values reported in the scientific literature for grasslands.
